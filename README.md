@@ -1,21 +1,24 @@
 # LeetCode
-*Solutions of LeetCode Problems with Python/SQL.*
-
----------------------------------------------------
-**11/14**<br>
-
-2 Add Two Numbers<br> 
+**Solutions of LeetCode Problems**
 
 
 
+| Date       | Problems                                                  |
+| ---------- | --------------------------------------------------------- |
+| 11/14/2018 | 2 Add Two Numbers<br>160 Intersection of Two Linked Lists |
+|            |                                                           |
+|            |                                                           |
+|            |                                                           |
+|            |                                                           |
 
 
 
 
 
+## Previous
 
 -------------------ALGORITHMS----------------- <br>
-### Week 1 
+
 **4.9** <br>
 136	Single Number <br>
 104	Maximum Depth of Binary Tree <br> 
@@ -60,7 +63,7 @@
 288-648	Unique Word Abbreviation <br>
 128	Longest Consecutive Sequence <br>
 
-### Week 2
+### 
 **4.16** <br>
 157-null Read N Characters Given Read4 <br>
 158-660 Read N Characters Given Read4 -multiple calls <br>
@@ -103,7 +106,8 @@
 130 Surrounded Regions <br>
 286-663 Walls and Gates <br>
 
-### Week 3
+
+
 **4.23** <br>
 254 Factor Combinations (存疑) <br>
 191 Number of 1 Bits <br>
@@ -146,7 +150,7 @@
 43 Multiply Strings <br>
 258 Add Digits <br>
 
-### Week 4 
+### 
 **4.30** <br>
 67 Add Binary <br>
 83 Remove Duplicates from Sorted List <br>
@@ -170,11 +174,18 @@
 535 Encode and Decode TinyURL<br>
 146 LRU Cache <br>
 
+
+
+
+
+
+
 -------------------DATABASE----------------- <br>
 **5.5** <br>
 595 Big Countries <br>
 
-### Week 5
+
+
 **5.6** <br>
 627 Swap Salary <br>
 
@@ -196,7 +207,8 @@
 **5.13** <br>
 197 Rising Temperature <br>
 
-### Week 6
+
+
 **5.15** <br>
 596 Classes More Than 5 Students <br>
 
