@@ -2,17 +2,15 @@
 *Solutions of LeetCode Problems with Python/SQL.*
 
 ---------------------------------------------------
-
-
-
 **11/14**<br>
 
 2 Add Two Numbers<br> 
 
-**8.13**<br>
-461 Hamming Distance<br>
-535 Encode and Decode TinyURL<br>
-146 LRU Cache <br>
+
+
+
+
+
 
 
 
@@ -167,6 +165,10 @@
 198 House Robber <br>
 213 House Robber II <br>
 
+**8.13**<br>
+461 Hamming Distance<br>
+535 Encode and Decode TinyURL<br>
+146 LRU Cache <br>
 
 -------------------DATABASE----------------- <br>
 **5.5** <br>
