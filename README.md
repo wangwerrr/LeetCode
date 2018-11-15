@@ -6,7 +6,7 @@
 | Date       | Problems                                                  |
 | ---------- | --------------------------------------------------------- |
 | 11/14/2018 | 2 Add Two Numbers<br>160 Intersection of Two Linked Lists |
-|            |                                                           |
+| 11/15/2018 | 220 Contains Duplicate III                                |
 |            |                                                           |
 |            |                                                           |
 |            |                                                           |
